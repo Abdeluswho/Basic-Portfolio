@@ -122,11 +122,12 @@ nav a{
 footer{
 	background-color: #666;
 	color: #fff;
-	padding-top: 30px;
+	padding-top: 20px;
 	clear:both;
 	border-top: 8px solid #4aaaa5;
 	color: #ccc;
 	text-align: center;
+	padding-bottom: 20px
 }
 .work{
 	width: 274px;
